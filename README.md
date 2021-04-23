@@ -1,1 +1,21 @@
-# kcc-explorer
+# KCC-Scan
+
+KCC-Scan is an OpenSourced Block Explorer and Analytics Platform for KUCOIN Community Chain(KCC), a decentralized smart contracts platform.
+
+## Contributing
+
+[Contributing Guide](Contributing.md)
+
+## Code of Conduct
+
+In order to have a more open and welcoming community, KCC-Scan adheres to a
+[Code Of Conduct](Code-Of-Conduct.md) adapted from the NODE.JS code of
+conduct.
+
+Please adhere to this code of conduct in any interactions you have in the
+KCC-Scan community. It is strictly enforced on all official KCC-Scan
+repositories, websites, and resources.
+
+## License
+
+See the [GNU General Public License v3.0](LICENSE).
