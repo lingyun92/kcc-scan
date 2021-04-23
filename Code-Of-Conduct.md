@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-KCC-Scan has adopted the [Contributor Covenant 2.0][cc-20-doc].
+KCC-Scan has adopted the [Contributor Covenant 2.0](cc-20-doc).
 
 ## Our Pledge
 
