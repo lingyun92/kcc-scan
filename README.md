@@ -5,7 +5,6 @@ KCC-Scan is an OpenSourced Block Explorer and Analytics Platform for KUCOIN Comm
 ## Community
 
 [![Join the chat at https://gitter.im/KCC-Scan/community](https://badges.gitter.im/KCC-Scan/community.svg)](https://gitter.im/KCC-Scan/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
->>>>>>> a1c68c5f8d36aee04de17731a91141b517b3de8d
 
 ## Contributing
 
