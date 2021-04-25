@@ -12,6 +12,15 @@ There should be an OpenSourced Etherscan, and we can make it togETHer.
 
 ## Contributing
 
+We encourage you to join us, no mater what do you do:
+
+- Frontend developer
+- Backend developer
+- Designer
+- Product Manager
+- QA tester
+- Etc...
+
 [Contributing Guide](Contributing.md)
 
 ## Code of Conduct
