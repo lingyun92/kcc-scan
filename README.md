@@ -17,7 +17,7 @@ We encourage you to join us, no mater what do you do:
 - Frontend developer
 - Backend developer
 - Designer
-- Product Manager
+- Product manager
 - QA tester
 - Etc...
 
